@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/utils/AuthUtils.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/controller/SupplierController.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/web/welcome.jsp</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/model/productDTO.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/controller/UserController.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/web/productForm.jsp</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/controller/MainController.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/web/index.html</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/model/userDTO.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/filter/AuthenticationFilter.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/controller/ProductController.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/model/productDAO.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/filter/ProductActionFilter.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/controller/CategoryController.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/web/login.jsp</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/utils/PasswordUtils.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/filter/AdminAuthorizationFilter.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/model/userDAO.java</file>
+            <file>file:/D:/FPTU_2024_2027/Semes_4/2_PRJ301/Project_PRJ/13_24_6_25/WebApplication14/src/java/utils/DbUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
